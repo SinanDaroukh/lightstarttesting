@@ -3,7 +3,7 @@ using Android.Widget;
 using Android.OS;
 namespace LightStartTest1
 {
-    [Activity(Label = "LightStartTest1", MainLauncher = true)]
+    [Activity(Label = "LightStartTest1")]
     public class MainActivity : Activity
     {
         int count = 1;

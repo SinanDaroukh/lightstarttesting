@@ -47,6 +47,9 @@ namespace LightStartTest1
 			// aapt resource value: 0x7f020000
 			public const int logo1 = 2130837504;
 			
+			// aapt resource value: 0x7f020001
+			public const int splash_screen = 2130837505;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -113,6 +116,9 @@ namespace LightStartTest1
 		
 		public partial class Style
 		{
+			
+			// aapt resource value: 0x7f050001
+			public const int MyTheme_Splash = 2131034113;
 			
 			// aapt resource value: 0x7f050000
 			public const int Theme_Custom = 2131034112;
